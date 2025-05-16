@@ -1,0 +1,25 @@
+﻿@model Collection
+<div class="col-sm-12 col-xl-6">
+    <div class="bg-secondary rounded h-100 p-4">
+        <h6 class="mb-4">Delete Form</h6>
+        <form>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Name</label>
+                <input asp-for="Name" class="form-control" id="exampleInputEmail1"
+                       aria-describedby="emailHelp">
+                <div id="emailHelp" class="form-text">
+                    We'll never share your email with anyone else.
+                </div>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputPassword1" class="form-label">CategoryName</label>
+                <input asp-for="CategoryName" class="form-control" id="exampleInputPassword1">
+            </div>
+            <div class="mb-3 form-check">
+                <input asp-for="Items" class="form-check-input" id="exampleCheck1">
+                <label class="form-check-label" for="exampleCheck1">Items</label>
+            </div>
+            <button type="submit" class="btn btn-primary">Delete</button>
+        </form>
+    </div>
+</div>
