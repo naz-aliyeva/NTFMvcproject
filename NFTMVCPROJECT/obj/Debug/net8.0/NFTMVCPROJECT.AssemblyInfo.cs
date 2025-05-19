@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NFTMVCPROJECT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a6f5babe72881309c318ef315b6a5ae2c90ef2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+373002f504e6b2d70b540e4fafeccd16c3182818")]
 [assembly: System.Reflection.AssemblyProductAttribute("NFTMVCPROJECT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NFTMVCPROJECT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

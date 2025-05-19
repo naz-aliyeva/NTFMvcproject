@@ -27,8 +27,12 @@ namespace NFTMVCPROJECT.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult Create(Collection collection)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest("Senin Modelinde sixinti var ");  
+            }
             _service.CreateCollection(collection);
-            return RedirectToAction();
+            return RedirectToAction(nameof(Index));
 
 
         }

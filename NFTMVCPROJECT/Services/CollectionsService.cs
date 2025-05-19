@@ -1,5 +1,6 @@
 ﻿using NFTMVCPROJECT.Contexts;
 using NFTMVCPROJECT.Models;
+using NFTMVCPROJECT.View_Models;
 
 namespace NFTMVCPROJECT.Services;
 public class CollectionsService
@@ -12,8 +13,23 @@ public class CollectionsService
     }
 
     #region Create
-    public void CreateCollection(Collection collection)
+    public void CreateCollection(CollectionVM collectionVM)
+
     {
+
+        Collection collection = new Collection();
+
+
+        //string fileName = Guid.NewGuid().ToString()+ CollectionVM.ImgFile.FileName;
+
+        string fileName = Path.GetFileNameWithoutExtension(CollectionVM.ImgFile.FileName);
+        string extension = Path.GetExtension(CollectionVM.ImgFile.FileName);
+        string resultName = fileName + Guid.NewGuid().ToString() + extension;
+        string uploadedImg = ;
+        FileStream stream = new FileStream();
+        collectionVM.ImgFile.CopyTo();
+        new CollectionVM.ImgUrl = resultName;
+
         _context.collections.Add(collection);
         _context.SaveChanges();
     }

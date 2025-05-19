@@ -1,4 +1,6 @@
-﻿namespace NFTMVCPROJECT.View_Models;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace NFTMVCPROJECT.View_Models;
 
 public class CollectionVM
 {
@@ -6,5 +8,6 @@ public class CollectionVM
     public string Name { get; set; }
     public string CategoryName { get; set; }
     public int Items { get; set; }
-    public IFormFile ImgUrk { get; set; }
+    public IFormFile ImgFile { get; set; }
+
 }

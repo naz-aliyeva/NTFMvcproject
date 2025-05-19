@@ -1,109 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\NTFMvcproject\\",
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\views\\collection\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\views\\collection\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\views\\collection\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\views\\collection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\views\\collection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\controllers\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\controllers\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\migrations\\20250518105551_collectionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\migrations\\20250518105551_collectionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\migrations\\20250516123112_createtablecollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\migrations\\20250516123112_createtablecollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\nftmvcproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\nftmvcproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\views\\collection\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\views\\collection\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\views\\collection\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\views\\collection\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\views\\collection\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\views\\collection\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\view models\\collectionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\view models\\collectionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\view models\\collectionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\services\\collectionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\views\\collection\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\views\\collection\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\views\\collection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\views\\collection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\views\\collection\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\views\\collection\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\views\\collection\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\views\\collection\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\services\\collectionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\services\\collectionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\controllers\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\controllers\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\user\\desktop\\ntfmvcproject\\nftmvcproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|c:\\users\\i novbe\\desktop\\ntfmvcproject\\nftmvcproject\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0137267-8E3B-4A4E-90E3-06F7EF5CDF3A}|NFTMVCPROJECT\\NFTMVCPROJECT.csproj|solutionrelative:nftmvcproject\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -113,65 +74,184 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAOcUAAAAAAAAAAAawPMUAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-05-19T02:23:16.609Z",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Index.cshtml",
+              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Index.cshtml",
+              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T08:30:46.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "NFTMVCPROJECT\\Views\\_ViewImports.cshtml",
+              "DocumentIndex": 8,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Info.cshtml",
+              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Info.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Info.cshtml",
+              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Info.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T23:34:56.235Z"
+              "WhenOpened": "2025-05-19T08:30:45.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Create.cshtml",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Create.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Create.cshtml",
-              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
+              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
+              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T13:46:30.466Z",
+              "WhenOpened": "2025-05-19T08:30:10.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
+              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T08:30:05.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Create.cshtml",
+              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Create.cshtml",
+              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T08:30:02.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "NFTMVCPROJECT\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:20:02.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Collection.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Models\\Collection.cs",
+              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Models\\Collection.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Models\\Collection.cs",
+              "RelativeToolTip": "NFTMVCPROJECT\\Models\\Collection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:04:16.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Index.cshtml",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Index.cshtml",
-              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Index.cshtml",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAiwF4AAABbAAAAAAAAAA==",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NFTMVCPROJECT\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T13:35:16.988Z"
+              "WhenOpened": "2025-05-19T07:59:08.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NFTMVCPROJECT\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T07:49:46.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectionVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\View Models\\CollectionVM.cs",
+              "RelativeDocumentMoniker": "NFTMVCPROJECT\\View Models\\CollectionVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\View Models\\CollectionVM.cs",
+              "RelativeToolTip": "NFTMVCPROJECT\\View Models\\CollectionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:42:53.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "NFTMVCPROJECT\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:08:47.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CollectionController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Controllers\\CollectionController.cs",
+              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Controllers\\CollectionController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Controllers\\CollectionController.cs",
+              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Controllers\\CollectionController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:43:53.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CollectionsService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Services\\CollectionsService.cs",
+              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Services\\CollectionsService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Services\\CollectionsService.cs",
+              "RelativeToolTip": "NFTMVCPROJECT\\Services\\CollectionsService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:48:39.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Program.cs",
               "RelativeDocumentMoniker": "NFTMVCPROJECT\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Program.cs",
               "RelativeToolTip": "NFTMVCPROJECT\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwBgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -180,257 +260,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "NFTMVCPROJECT\\Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T12:08:47.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "NFTMVCPROJECT\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T11:34:16.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T14:24:25.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T12:33:38.382Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "NFTMVCPROJECT\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACIBAAAAAAAAAAAkwIMAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T11:31:46.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Collection.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Models\\Collection.cs",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Models\\Collection.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Models\\Collection.cs",
-              "RelativeToolTip": "NFTMVCPROJECT\\Models\\Collection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T11:28:13.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "NFTMVCPROJECT\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T11:31:38.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CollectionController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Controllers\\CollectionController.cs",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Controllers\\CollectionController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Controllers\\CollectionController.cs",
-              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Controllers\\CollectionController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAApwBEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T12:43:53.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAiwK8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T12:34:36.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T12:33:13.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20250518105551_CollectionsTable.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Migrations\\20250518105551_CollectionsTable.cs",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Migrations\\20250518105551_CollectionsTable.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Migrations\\20250518105551_CollectionsTable.cs",
-              "RelativeToolTip": "NFTMVCPROJECT\\Migrations\\20250518105551_CollectionsTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T10:56:16.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "NFTMVCPROJECT\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T12:37:41.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20250516123112_CreateTableCollections.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Migrations\\20250516123112_CreateTableCollections.cs",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Migrations\\20250516123112_CreateTableCollections.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Migrations\\20250516123112_CreateTableCollections.cs",
-              "RelativeToolTip": "NFTMVCPROJECT\\Migrations\\20250516123112_CreateTableCollections.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T12:31:13.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "NFTMVCPROJECT.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\NFTMVCPROJECT.csproj",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\NFTMVCPROJECT.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\NFTMVCPROJECT.csproj",
-              "RelativeToolTip": "NFTMVCPROJECT\\NFTMVCPROJECT.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-16T11:30:50.154Z",
+              "WhenOpened": "2025-05-16T12:33:38.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CollectionVM.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\View Models\\CollectionVM.cs",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\View Models\\CollectionVM.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\View Models\\CollectionVM.cs",
-              "RelativeToolTip": "NFTMVCPROJECT\\View Models\\CollectionVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NFTMVCPROJECT\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T13:57:13.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
-              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T13:45:59.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Info.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Info.cshtml",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Info.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Info.cshtml",
-              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Info.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T13:36:38.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
-              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T13:45:39.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CollectionsService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Services\\CollectionsService.cs",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Services\\CollectionsService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Services\\CollectionsService.cs",
-              "RelativeToolTip": "NFTMVCPROJECT\\Services\\CollectionsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T12:48:39.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "NFTMVCPROJECT\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T12:34:04.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "NFTMVCPROJECT\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "NFTMVCPROJECT\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-16T12:32:10.634Z"
+              "WhenOpened": "2025-05-16T11:31:38.262Z",
+              "EditorCaption": ""
             }
           ]
         }
