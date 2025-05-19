@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using NFTMVCPROJECT.Contexts;
+using NFTMVCPROJECT.Models;
 
 namespace NFTMVCPROJECT.Areas.Admin.Controllers
 {
@@ -13,6 +14,7 @@ namespace NFTMVCPROJECT.Areas.Admin.Controllers
         }
         public IActionResult Index()
         {
+            //List<Collection> collections= _context.collections.ToList();
             return View();
         }
     }
