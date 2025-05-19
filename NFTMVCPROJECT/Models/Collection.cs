@@ -6,6 +6,5 @@ public class Collection
     public string Name { get; set; }
     public string CategoryName { get; set; }
     public int Items { get; set; }
-
     public string ImgUrl { get; set; }
 }

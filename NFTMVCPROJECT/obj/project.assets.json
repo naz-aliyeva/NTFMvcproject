@@ -7596,23 +7596,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\I Novbe\\.nuget\\packages\\": {},
+    "C:\\Users\\ca r221.14\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\NFTMVCPROJECT.csproj",
+      "projectUniqueName": "C:\\Users\\ca r221.14\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\NFTMVCPROJECT.csproj",
       "projectName": "NFTMVCPROJECT",
-      "projectPath": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\NFTMVCPROJECT.csproj",
-      "packagesPath": "C:\\Users\\I Novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\I Novbe\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\obj\\",
+      "projectPath": "C:\\Users\\ca r221.14\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\NFTMVCPROJECT.csproj",
+      "packagesPath": "C:\\Users\\ca r221.14\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ca r221.14\\Desktop\\NTFMvcproject\\NFTMVCPROJECT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\I Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ca r221.14\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7683,7 +7683,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

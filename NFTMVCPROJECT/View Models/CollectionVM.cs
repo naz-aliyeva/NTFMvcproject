@@ -1,10 +1,10 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace NFTMVCPROJECT.View_Models;
 
 public class CollectionVM
 {
-    public int Id { get; set; }
+    [Required(ErrorMessage = "Ad yazilmayib")]
     public string Name { get; set; }
     public string CategoryName { get; set; }
     public int Items { get; set; }

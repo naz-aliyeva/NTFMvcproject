@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\admin\assets\uploadedImages\**" />
+    <Content Remove="wwwroot\admin\assets\uploadedImages\**" />
+    <EmbeddedResource Remove="wwwroot\admin\assets\uploadedImages\**" />
+    <None Remove="wwwroot\admin\assets\uploadedImages\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.16" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.16" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.16">
@@ -17,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\admin\assets\uploadedImages\" />
+    <Folder Include="wwwroot\assets\uploadedImg\" />
   </ItemGroup>
 
 </Project>

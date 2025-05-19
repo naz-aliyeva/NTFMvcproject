@@ -3,27 +3,27 @@
 <div class="col-sm-12 col-xl-6">
     <div class="bg-secondary rounded h-100 p-4">
         <h6 class="mb-4">Create Form</h6>
-        <form asp-area="Admin" asp-controller="Controller" asp-action="Create">
+        <form asp-area="Admin" asp-controller="Collection" asp-action="Create" enctype="multipart/form-data">
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Name</label>
-                <input asp-for="Name" class="form-control" id="exampleInputEmail1"
-                       aria-describedby="emailHelp">
-                <div id="emailHelp" class="form-text">
-                    We'll never share your email with anyone else.
-                </div>
+                <input asp-for="Name" class="form-control"  aria-describedby="emailHelp">
+                <span asp-validation-for="Name"></span>
             </div>
             <div class="mb-3">
-                <label for="exampleInputPassword1" class="form-label">CategoryName</label>
-                <input asp-for="CategoryName" class="form-control" id="exampleInputPassword1">
+                <label  class="form-label">CategoryName</label>
+                <input asp-for="CategoryName" class="form-control">
+                <span asp-validation-for="CategoryName"></span>
             </div>
             <div class="mb-3">
-                <label for="exampleInputPassword1" class="form-label">Items</label>
-                <input asp-for="Items" class="form-control" id="exampleInputPassword1">
+                <label class="form-label">Items</label>
+                <input asp-for="Items" class="form-control" >
+                <span asp-validation-for="Items"></span>
             </div>
             <div class="mb-3">
-                <label for="exampleInputPassword1" class="form-label"> Img Upload
+                <label  class="form-label"> Img Upload
                 </label>
-                <input type="ImgFile" class="form-control" id="exampleInputPassword1">
+                <input asp-for="ImgFile" class="form-control" >
+                <span asp-validation-for="ImgFile"></span>
             </div>
             
             <button type="submit" class="btn btn-primary">Create</button>

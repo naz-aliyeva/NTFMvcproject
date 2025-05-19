@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using NFTMVCPROJECT.Models;
 using NFTMVCPROJECT.Services;
+using NFTMVCPROJECT.View_Models;
 
 namespace NFTMVCPROJECT.Areas.Admin.Controllers
 {
@@ -20,18 +21,17 @@ namespace NFTMVCPROJECT.Areas.Admin.Controllers
         public IActionResult Create()
         {
             return View();
-
-
         }
 
         [HttpPost]
-        public IActionResult Create(Collection collection)
+        public IActionResult Create(CollectionVM collectionVM)
         {
             if (!ModelState.IsValid)
             {
-                return BadRequest("Senin Modelinde sixinti var ");  
+                return View();
             }
-            _service.CreateCollection(collection);
+
+            _service.CreateCollection(collectionVM);
             return RedirectToAction(nameof(Index));
 
 
@@ -59,11 +59,27 @@ namespace NFTMVCPROJECT.Areas.Admin.Controllers
         public IActionResult Update(int id)
         {
             Collection collection = _service.GetCollectionById(id);
-            return View(collection);
+
+            //Mapping
+            CollectionVM collectionVM = new CollectionVM()
+            {
+                Name = collection.Name,
+                CategoryName = collection.CategoryName,
+                Items = collection.Items
+            };
+
+            return View(collectionVM);
         }
+
         [HttpPost]
-        public IActionResult Update(int id, Collection collection)
+        public IActionResult Update(int id, CollectionVM collectionVM)
         {
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
+
+            _service.UpdateCollection(id, collectionVM);
             return RedirectToAction(nameof(Index));
         }
 
