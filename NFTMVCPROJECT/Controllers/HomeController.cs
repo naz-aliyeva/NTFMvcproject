@@ -4,7 +4,6 @@ using NFTMVCPROJECT.Services;
 
 namespace NFTMVCPROJECT.Controllers
 {
-    [Area("Admin")]
     public class HomeController : Controller
     {
         private readonly CollectionsService _collectionService;
